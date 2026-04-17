@@ -1,4 +1,4 @@
-[Версия на русском](readme-RU.md)
+[English version](readme.md)
 
 # Matrix Invite Manager Widget
 
