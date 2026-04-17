@@ -71,7 +71,7 @@ invites.domain.org {
 3. Configure your docker-compose file.:
 ```docker-compose.yaml
 services:
-  invitebot:
+  invitemgr:
     build: ./plugins/invitemgr
     restart: unless-stopped
     environment:
