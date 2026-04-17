@@ -4,7 +4,7 @@
 
 Microservice and custom widget for Matrix Synapse that allows server users to independently create one-time invite links (registration tokens) for new members without administrator intervention.
 
-## Основные возможности
+## Main features
 
 *   **Element Integration:** Works as a custom widget inside the Matrix client.
 *   **Invite Management:** User-friendly interface for creating and deleting invite links.
@@ -19,7 +19,7 @@ Microservice and custom widget for Matrix Synapse that allows server users to in
 
 ## Screenshots
 
-<img src="/img/1.png" align="center" width="600" />
+<img src="./img/1.png" align="center" width="600" />
 
 ## Architecture
 
