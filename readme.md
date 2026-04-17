@@ -19,7 +19,7 @@ Microservice and custom widget for Matrix Synapse that allows server users to in
 
 ## Screenshots
 
-<img src="./img/1.png" align="center" width="600" />
+<img src="./img/1.jpg" align="center" width="600" />
 
 ## Architecture
 
@@ -63,7 +63,7 @@ The service is configured via environment variables:
 
 ```Caddyfile
 # Invite service
-invites.domen.ru {
+invites.domain.org {
     reverse_proxy invitemgr:8080
 }
 ```
