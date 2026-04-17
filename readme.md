@@ -19,7 +19,7 @@ Microservice and custom widget for Matrix Synapse that allows server users to in
 
 ## Screenshots
 
-<img src="./img/1.jpg" align="center" width="600" />
+<p align="center"><img src="./img/1.jpg" width="800" /></p>
 
 ## Architecture
 

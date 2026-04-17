@@ -19,7 +19,7 @@
 
 ## Скриншоты
 
-<img src="/img/1.png" align="center" width="600" />
+<p align="center"><img src="./img/1.jpg" width="800" /></p>
 
 ## Архитектура
 
